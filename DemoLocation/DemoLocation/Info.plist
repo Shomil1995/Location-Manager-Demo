@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>To leverage the full functionality of DemoLocation, please allow Data Location services to be turned on.</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>To leverage the full functionality of DemoLocation, please allow Data Location services to be turned on.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>To leverage the full functionality of DemoLocation, please allow Data Location services to be turned on.</string>
+</dict>
+</plist>
